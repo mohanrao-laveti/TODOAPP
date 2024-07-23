@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohanrao-laveti/TODO.git/static/css/main.5cb0fc83.css",
+    "main.js": "/mohanrao-laveti/TODO.git/static/js/main.975d021f.js",
+    "index.html": "/mohanrao-laveti/TODO.git/index.html",
+    "main.5cb0fc83.css.map": "/mohanrao-laveti/TODO.git/static/css/main.5cb0fc83.css.map",
+    "main.975d021f.js.map": "/mohanrao-laveti/TODO.git/static/js/main.975d021f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cb0fc83.css",
+    "static/js/main.975d021f.js"
+  ]
+}
